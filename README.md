@@ -1,2 +1,2 @@
 # cartorioebac
-Projeto do Curdo de TI da EBAC
+Projeto do Curso de TI da EBAC
